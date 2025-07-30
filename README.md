@@ -1,6 +1,6 @@
 # Body Track VR – EMG Biofeedback in Virtual Reality
 
-**Body Track VR** is an academic project developed to visualize electromyographic (EMG) activity in real-time through a virtual reality (VR) environment. It offers users interactive biofeedback using a customizable 3D human avatar and is designed for rehabilitation, education, and clinical applications.
+**Body Track VR** is an academic project developed to visualize electromyographic (EMG) activity in real-time through a virtual reality (VR) environment. It offers users interactive biofeedback using a customizable 3D human avatar and is designed for rehabilitation, education, and clinical applications. This project is mainful designed for use in personalizes treatments to optimize the results of rehabilitation therapies.
 
 ## 🎯 Objectives
 
@@ -36,7 +36,8 @@ This is the Final Degree Project (TFG) of **Esther Bermejo**, developed during t
 
 - 🎓 **TFG Report:** [PDF](https://github.com/Esther000-git/tfg/blob/main/memoria.pdf)  
 - 🎥 **Defense Presentation:** [Presentation in Canva](https://www.canva.com/design/DAGs942APQg/jBIzGY0BiNMfOCBnd0tItw/watch?utm_content=DAGs942APQg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h15eaddfdf9)  
-- 💻 **Code Repository:** You're here 😊
+- 💻 **Code Repository:** [You're here](https://github.com/Esther000-git/tfg/tree/main/Scripts) 
+- 🎬 **Scene Repository** [GO!](https://github.com/Esther000-git/tfg/tree/main/Scenes)
 
 ## 👥 Target Audience
 
@@ -50,8 +51,8 @@ This is the Final Degree Project (TFG) of **Esther Bermejo**, developed during t
 ### Muscle Selection UI  
 ![Muscle selection](img/muscle_selection.png)
 
-### EMG Calibration Panel  
-![Calibration panel](img/emg_calibration.png)
+### EMG Video Stimulation Panel  
+![Calibration panel](img/emg_video_display.png)
 
 ### Real-time Visualization  
 ![Real-time feedback](img/real_time_feedback.png)
