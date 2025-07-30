@@ -34,7 +34,7 @@ This is the Final Degree Project (TFG) of **Esther Bermejo**, developed during t
 
 ## 📄 Resources
 
-- 🎓 **TFG Report (PDF):** [Link or embed once uploaded]  
+- 🎓 **TFG Report:** [PDF](https://github.com/Esther000-git/tfg/blob/main/memoria.pdf)  
 - 🎥 **Defense Presentation:** [Presentation in Canva](https://www.canva.com/design/DAGs942APQg/jBIzGY0BiNMfOCBnd0tItw/watch?utm_content=DAGs942APQg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h15eaddfdf9)  
 - 💻 **Code Repository:** You're here 😊
 
