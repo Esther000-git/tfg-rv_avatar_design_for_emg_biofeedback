@@ -75,5 +75,5 @@ This project is for academic and non-commercial use. Contact the author for coll
 **Esther Bermejo**  
 Biomedical Engineering (2021–2025)  
 University of Alicante  
-[LinkedIn](https://www.linkedin.com/in/esther-bermejo-mart%C3%ADnez-51a93929b/) | [estherbermejomartinez@gmail.com] | [Portfolio](https://github.com/Esther000-git/portfolio.git)
+[LinkedIn](https://www.linkedin.com/in/esther-bermejo-mart%C3%ADnez-51a93929b/) | [Portfolio](https://github.com/Esther000-git/portfolio.git)
 
