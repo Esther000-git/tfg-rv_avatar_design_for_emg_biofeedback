@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 653498563bfb0694ca49da3a5099afdd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - videoGrid: {instanceID: 0}
+  - videoPrefab: {instanceID: 0}
+  - videoDatabase: {fileID: 11400000, guid: 957ab424d8b41154f9580008cef76297, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
